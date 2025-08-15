@@ -6,7 +6,7 @@ Su objetivo es agregar emoción y sorpresa al clásico juego de "Amigo Secreto".
 ## 📌 Descripción
 El juego permite:
 1. **Registrar a los amigos participantes**.
-2. Presionar el botón **Sortear amigo** para que el sistema elija **de forma aleatoria** quién será tu amigo secreto.
+2. Presionar el botón **"Sortear amigo"** para que el sistema elija **de forma aleatoria** quién será tu amigo secreto.
 3. Mostrar el resultado del sorteo en pantalla.
 
 ## 🚀 Cómo funciona
