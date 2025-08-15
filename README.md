@@ -1,4 +1,3 @@
-# amigo-secreto
 # 🎁 Juego del Amigo Secreto
 
 Este proyecto es un juego interactivo para **identificar el amigo secreto asignado de forma aleatoria**.  
